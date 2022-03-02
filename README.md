@@ -1,4 +1,4 @@
-# Adaptacio
+# Adaptació
 Joc Adaptatiu on he ajuntat 2 jocs: Laberint + Golf.
 ----------------------------------------------------
 
